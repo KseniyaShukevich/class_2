@@ -1,4 +1,4 @@
-string = input('').strip()
+string = input('Введите слова, разделенные одним пробелом: ').strip()
 
 words = string.split()
 
